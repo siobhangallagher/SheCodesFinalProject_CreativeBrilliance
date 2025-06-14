@@ -1,6 +1,7 @@
-🌿 Siobhán Gallagher – My First Website!
+🌿 Siobhan Gallagher – My First Website!
 
-Hey there! 👋Welcome to the code behind my very first website: www.siobhangallagher.meThis project is the beginning of my coding journey and growing portfolio 🌱
+Hey there! 👋Welcome to the code behind my very first website: www.siobhangallagher.me
+This project is the beginning of my coding journey and growing portfolio 🌱
 
 💻 About This Project
 
@@ -26,7 +27,7 @@ How to push my project to GitHub and publish it using GitHub Pages 🚀
 
 Basic web structure, styling, and interactivity
 
-That tiny code changes can make a big visual impact (and break everything 😂) — all part of the learning journey!
+That tiny code changes can make a big visual impact (and break everything 😂) — all part of the learning journey, right?
 
 🔧 Tools I Used
 
@@ -54,7 +55,9 @@ Keep experimenting and learning 🚀
 
 🙌 A Big Thank You
 
-Thanks to She Codes, Matt Delac, and all the mentors who supported me through the basics course.Also big appreciation to everyone cheering me on as I pivot into tech 💪
+Thanks to She Codes, Matt Delac, and all the mentors who supported me through the basics course. Also big appreciation to everyone cheering me on as I pivot into tech 💪
 
-🔗 Check it out live: www.siobhangallagher.me🧶 Built with curiosity, caffeine ☕, and a love of learning.
+🔗 Check it out live: www.siobhangallagher.me🧶
+
+Built with curiosity, caffeine ☕, and a love of learning.
 
